@@ -8,4 +8,4 @@ diaVencimento = input('Digite o dia de vencimento:\n')
 mesVencimento = input('Digite o mês de vencimento: \n')
 valorFatura= input('Digite o valor da fatura: \n')
 
-print('Olá ' + nomeCliente + ' A sua fatura com vencimento em ' + diaVencimento +' ' + mesVencimento + ' no valor de R$ ' + valorFatura + ' está fechada.')
+print('Olá, ' + nomeCliente + '\n A sua fatura com vencimento em ' + diaVencimento +' ' + mesVencimento + ' no valor de R$ ' + valorFatura + ' está fechada.')
